@@ -1,0 +1,56 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/pen.png",
+      "title": "Programming Languages",
+      "description": ["Python", "Java", "C++", "HTML", "C#"]
+    },
+    {
+      "id": "2",
+      "src": "./img/book.png",
+      "title": "Frameworks and Libraries",
+      "description": ["React.js", "Tkinter", "Selenium WebDriver", "NumPy", "Bootstrap"]
+    },
+    {
+      "id": "3",
+      "src": "./img/lightbulb.png",
+      "title": "Software Developing Concepts",
+      "description": ["Object-Oriented Programming", "Project Management", "Game Development", "Web Development"]
+    },
+    {
+      "id": "4",
+      "src": "./img/gear.png",
+      "title": "Other Technologies/Miscellaneous",
+      "description": ["API, RestAPI", "Unity", "Scrum", "Jira", "Git"]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "url": "https://github.com/LoveBhusal",
+      "linkText": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/portfolioproject.png",
+      "title": "Portfolio Website",
+      "description": "The website you are currently browsing! I developed and deployed a dynamic website portfolio using React, HTML, and CSS. This portfolio showcases my projects, skills, and personal details. I implemented a responsive web design approach to ensure optimal user experiences across various devices, including desktops, laptops, tablets, and smartphones. Utilizing CSS, I created an aesthetically pleasing and user-friendly interface to enhance the overall look and feel of the website. ",
+      "linkText": "View In Github",
+      "url": "https://github.com/LoveBhusal",
+      "skills":"Skills Utilized: React.JS | HTML | CSS | Email JS API  "
+    },
+    {
+      "id": "3",
+      "src": "./img/golf.png",
+      "title": "VR Golf Frenzy",
+      "description": "Collaborated with a co-developer in Unity to create a Virtual Reality Mini-Golf game, overseeing project management through Jira for efficient task tracking and issue resolution. Utilized Unity and C-Sharp programming to implement interactive gameplay and VR mechanics, while also designing user-friendly UI elements. Adhered to Scrum principles, engaging in daily stand-ups, sprint planning, and retrospectives to ensure a streamlined development process.",
+      "linkText": "Repository Not Available (Copyright)",
+      "url": "https://github.com/LoveBhusal",
+      "skills":"Skills Utilized: Unity Engine | C# | Scrum Methodologies | Jira Software"
+    }
+  ]
+}
