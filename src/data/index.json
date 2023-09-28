@@ -29,7 +29,7 @@
     {
       "id": "1",
       "src": "./img/Logo-NBA.png",
-      "title": "NBA Data Analytics",
+      "title": "NBA MVP Predictor",
       "description": "I am currently working on this project that uses Machine Learning that will predict the next NBA MVP. I will be web scraping to gather players' statistics and load it into pandas for analysis. The goal is to identify trends and patterns in historical MVP data and use this information to employ machine learning algorithms to build predictive models. ",
       "url": "https://github.com/LoveBhusal",
       "linkText": "View In Github",
