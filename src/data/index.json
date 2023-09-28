@@ -29,10 +29,11 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "title": "NBA Data Analytics",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "url": "https://github.com/LoveBhusal",
-      "linkText": "View In Github"
+      "linkText": "View In Github",
+      "skills":"Skills Utilized: Python | Web Scraping | BeautifulSoup | Selenium | Pandas "
     },
     {
       "id": "2",
