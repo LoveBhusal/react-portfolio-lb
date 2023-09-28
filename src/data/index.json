@@ -28,12 +28,12 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "./img/Logo-NBA.png",
       "title": "NBA Data Analytics",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I am currently working on this project that uses Machine Learning that will predict the next NBA MVP. I will be web scraping to gather players' statistics and load it into pandas for analysis. The goal is to identify trends and patterns in historical MVP data and use this information to employ machine learning algorithms to build predictive models. ",
       "url": "https://github.com/LoveBhusal",
       "linkText": "View In Github",
-      "skills":"Skills Utilized: Python | Web Scraping | BeautifulSoup | Selenium | Pandas "
+      "skills":"Skills Utilizing: Python | Web Scraping | BeautifulSoup | Selenium | Pandas "
     },
     {
       "id": "2",
