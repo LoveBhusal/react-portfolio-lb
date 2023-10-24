@@ -10,7 +10,7 @@
       "id": "2",
       "src": "./img/book.png",
       "title": "Frameworks and Libraries",
-      "description": ["React.js", "Tkinter", "Selenium WebDriver", "NumPy", "Bootstrap"]
+      "description": ["React.js", "Scikit-learn", "Tkinter", "Selenium WebDriver", "NumPy", "Pandas"]
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "id": "4",
       "src": "./img/gear.png",
       "title": "Other Technologies/Miscellaneous",
-      "description": ["API, RestAPI", "Unity", "Scrum", "Jira", "Git"]
+      "description": ["API, RestAPI", "Unity", "Scrum", "Jira", "Git", "Jupyter"]
     }
   ],
   "portfolio": [
@@ -30,10 +30,10 @@
       "id": "1",
       "src": "./img/Logo-NBA.png",
       "title": "NBA MVP Predictor",
-      "description": "I am currently working on this project that uses Machine Learning that will predict the next NBA MVP. I will be web scraping to gather players' statistics and load it into pandas for analysis. The goal is to identify trends and patterns in historical MVP data and use this information to employ machine learning algorithms to build predictive models. ",
-      "url": "https://github.com/LoveBhusal",
+      "description": "I utilized Machine Learning to predict the past, current, and future NBA MVPs. I web scraped player statistics and loaded the data into pandas for analysis. I identified trends and patterns in historical MVP data from 2003 to 2023 and used this information to employ machine learning algorithms to build predictive models like random forest and regression models. In the end, the final model achieved an 81% prediction rate, demonstrating its effectiveness in forecasting NBA MVPs.",
+      "url": "https://github.com/LoveBhusal/NBA-MVP-Predictor",
       "linkText": "View In Github",
-      "skills":"Skills Utilizing: Python | Web Scraping | BeautifulSoup | Selenium | Pandas "
+      "skills":"Skills Utilized: Python | Scikit-learn | Web Scraping | BeautifulSoup | Selenium | Pandas "
     },
     {
       "id": "2",
