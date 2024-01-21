@@ -37,6 +37,15 @@
     },
     {
       "id": "2",
+      "src": "./img/projDoc.PNG",
+      "title": "AI Doctor Chatbot",
+      "description": "Developed and designed a chatbot application that serves as a doctor that users can consult to address any health/medical concerns. Used Python/Django for backend functionality and HTML, CSS, and JavaScript for frontend development to craft a seamless and visually appealing user interface for the chatbot. Implemented a signup and login page for user authentication for the application, as well as the ability to access past conversations that correspond to the specific user. Implemented OpenAI API to harness advanced natural language processing capabilities for effective communication and understanding of user queries. Leveraged fine-tuning techniques on the OpenAI API to train the chatbot to develop accurate diagnosis and treatment plans while strictly answering health-related questions only.",
+      "linkText": "View In Github",
+      "url": "https://github.com/LoveBhusal/AI_Doctor_Chatbot",
+      "skills":"Skills Utilized: Python | Django | OpenAI API | HTML | CSS | JS"
+    },
+    {
+      "id": "3",
       "src": "./img/portfolioproject.PNG",
       "title": "Portfolio Website",
       "description": "The website you are currently browsing! I developed and deployed a dynamic website portfolio using React, HTML, and CSS. This portfolio showcases my projects, skills, and personal details. I implemented a responsive web design approach to ensure optimal user experiences across various devices, including desktops, laptops, tablets, and smartphones. Utilizing CSS, I created an aesthetically pleasing and user-friendly interface to enhance the overall look and feel of the website. ",
@@ -45,7 +54,7 @@
       "skills":"Skills Utilized: React.JS | HTML | CSS | Email JS API  "
     },
     {
-      "id": "3",
+      "id": "4",
       "src": "./img/golf.png",
       "title": "VR Golf Frenzy",
       "description": "Collaborated with a co-developer in Unity to create a Virtual Reality Mini-Golf game, overseeing project management through Jira for efficient task tracking and issue resolution. Utilized Unity and C-Sharp programming to implement interactive gameplay and VR mechanics, while also designing user-friendly UI elements. Adhered to Scrum principles, engaging in daily stand-ups, sprint planning, and retrospectives to ensure a streamlined development process.",
@@ -53,5 +62,6 @@
       "url": "https://github.com/LoveBhusal",
       "skills":"Skills Utilized: Unity Engine | C# | Scrum Methodologies | Jira Software"
     }
+
   ]
 }

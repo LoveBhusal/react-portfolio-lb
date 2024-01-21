@@ -408,10 +408,10 @@ h2 {
   gap: 21.3px;
 }
 .portfolio--section--container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 42.6px;
+  justify-content: center;
   width: 100%;
 }
 .portfolio--section--img {
