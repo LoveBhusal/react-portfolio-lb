@@ -242,8 +242,14 @@ h2 {
   .footer--items{
     transform: translateX(-50px);
   }
+  
 }
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
 
+  .portfolio--section--container{
+    transform: translateX(180px);
+  }
+}
 
 
 
