@@ -20,7 +20,7 @@ export default function HeroSection() {
         </div>
         <button className="btn btn-primary"
         onClick={() => {
-          window.open("https://drive.google.com/file/d/1eBZWm8EkionVNxo3Qr1fAO8KxLitHxCl/view?usp=drive_link", "_blank");
+          window.open("https://drive.google.com/file/d/1C_rCCUtSJcQ6AEpLCSP0t62bIX2IXn7e/view?usp=sharing", "_blank");
           
       }}>
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-file-text-fill" viewBox="0 0 16 16" style={{ marginRight: '8px' }} >
